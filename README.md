@@ -40,11 +40,11 @@ The project recreates the YouTube homepage interface including:
 
 ### Homepage
 
-![Homepage](images/homepage-1.png)
+![Homepage](Screenshot%202026-06-01%20222745.png)
 
 ### Video Section
 
-![Video Section](images/homepage-2.png)
+![Video Section](Screenshot%202026-06-01%20222801.png)
 
 ---
 
